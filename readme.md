@@ -40,18 +40,19 @@ Open index.html using VS Code Live Server or any browser directly.
 
 🧪 File Structure
 📦 your-project/
-├── index.html         # Main HTML file
-├── style.css          # Stylesheet with theme & animations
-├── app.js             # JavaScript for validation and animations
-├── shape.png          # Background decorative image
-├── envelope.png       # Email icon
-├── location.png       # Location icon
-├── outgoing-call.png  # Phone icon
-└── README.md          # Project documentation
-📸 Preview
-[image.png]
+Contact-Form/
+├── index.html
+├── style.css
+├── app.js
+├── img/
+│   └── screenshot.png
+└── README.md
 
-![Contact Form Screenshot](screenshot.png)
+## 📸 Preview
+[images/image.png]
+
+![Contact Form Screenshot](images/screenshot.png)
+
 📬 Contact
 Made with 💜 by Manail Ghouri
 
