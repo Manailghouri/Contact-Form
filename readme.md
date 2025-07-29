@@ -13,7 +13,7 @@ A modern, responsive, and elegant contact form built with HTML, CSS, and JavaScr
 - Gradient pastel theme with glassmorphism effect
 - Animated background elements (shapes, floating circles)
 - Clean and accessible code with semantic HTML
-- Social media icon links using [Boxicons](https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css")
+- Social media icon links using [Boxicons](https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css)
 
 ---
 
@@ -30,31 +30,34 @@ A modern, responsive, and elegant contact form built with HTML, CSS, and JavaScr
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+    ```bash
+    git clone https://github.com/Manailghouri/Contact-Form.git
+    cd Contact-Form
+    ```
+2. **Open the project in your browser**
+    - Open `index.html` directly, or  
+    - Use VS Code Live Server for a better development experience.
 
-```bash
-git clone https://github.com/Manailghouri/Contact-Form.git
-cd Contact-Form
+---
 
-Open the project in your browser
-Open index.html using VS Code Live Server or any browser directly.
-
-🧪 File Structure
-📦 your-project/
+## 🧪 File Structure
 Contact-Form/
 ├── index.html
 ├── style.css
 ├── app.js
-├── img/
-│   └── screenshot.png
+├── images/
+│ └── screenshot.png
 └── README.md
 
+
+---
+
 ## 📸 Preview
-[images/image.png]
 
 ![Contact Form Screenshot](images/screenshot.png)
 
-📬 Contact
-Made with 💜 by Manail Ghouri
+---
 
+## 📬 Contact
 
-
+Made with 💜 by **Manail Ghouri**
