@@ -3,6 +3,10 @@
 A modern, responsive, and elegant contact form built with HTML, CSS, and JavaScript. This project includes a clean theme with animated floating labels, real-time validation, and beautiful UI transitions using pastel gradients and soft shadows.
 
 ---
+## 🌐 Live Demo
+
+👉 [**Demo**](https://reliable-semifreddo-3348a5.netlify.app/)
+
 
 ## ✨ Features
 
